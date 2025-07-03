@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSkC8XQ/Dik=",
+  "success": true,
+  "projectFilePath": "/Users/jaewon/Desktop/Taskfolder/HelloApi/HelloApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaewon/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/jaewon/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
